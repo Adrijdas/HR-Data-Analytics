@@ -63,7 +63,7 @@ An interactive **Power BI dashboard** was created to provide a consolidated view
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard](Power_Bi_Dashboard_Picture.png)
+![Power BI HR Analytics Dashboard](PowerBI_Dashboard/Power_BI_Dashboard_Picture.png)
 
 ---
 
