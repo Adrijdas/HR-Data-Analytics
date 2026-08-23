@@ -179,7 +179,6 @@ The predictive analytics component of this project focuses on the following ques
 
 The prediction target is a binary variable called **Attrition**.
 
-```text
 1 = Resigned
 0 = Active
 
@@ -332,7 +331,7 @@ Any future HR predictive analytics system should also consider:
 
 ## Libraries Used
 
-```text
+
 pandas
 numpy
 scikit-learn
@@ -369,7 +368,6 @@ The main Python script performs the following tasks:
 
 # 🔄 Project Workflow
 
-```text
 Raw HR Dataset
        ↓
 Data Cleaning & Preparation
@@ -420,7 +418,7 @@ The project therefore demonstrates not only how to build a machine learning mode
 
 ---
 
-# 👨‍💻 Author
+# 👨💻 Author
 
 **Adrij Das**
 
