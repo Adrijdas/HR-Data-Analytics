@@ -356,6 +356,7 @@ The main Python script performs the following tasks:
 
 # 🛠️ Technologies Used
 
+- Power Query
 - Python
 - Pandas
 - NumPy
