@@ -63,7 +63,7 @@ An interactive **Power BI dashboard** was created to provide a consolidated view
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard](images/Power_Bi_Dashboard_Picture.png)
+![Dashboard](Power_Bi_Dashboard_Picture.png)
 
 ---
 
